@@ -31,16 +31,15 @@ section#telefone{
 }
 iframe#tela{
     position: relative;
-    top: 80px;
-    left: 22px;
-    width: 269px;
-    height: 471px;
-}
+    top: 72px;
+    left: 14px;
+    width: 283px;
+    height: 479px;
+   }
 
 section#redes-sociais{
     text-align: right;
-    margin-right: 10px;
-
+    margin-right: 10px;   
 }
 
 section#redes-sociais img{
